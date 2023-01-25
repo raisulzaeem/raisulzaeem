@@ -23,9 +23,6 @@ I am Raisul Islam
 [<img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" />]()
 [<img align="left" alt="Pytorch" width="100px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" />]()
 [<img align="left" alt="OpenCV" width="26px" src="https://github.com/opencv/opencv/blob/master/doc/opencv-logo2.png?raw=true" />]()
-[<img align="left" alt="OpenVINO" width="100px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/openvino-2.svg" />]()
-[<img align="left" alt="ROS" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" />]()
-/>]()
 
 <br />
 
