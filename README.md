@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Raisul Islam 
-(you may also call me Zaeem. That is how my friends and family addresses me)
+I am Raisul Islam (Nickname : Zaeem)
 
 - I’m currently working as a Computer Vision Engineer at [Saueressig](https://www.saueressig.com/) in Vreden, Germany.
 
