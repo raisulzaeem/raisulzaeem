@@ -4,7 +4,7 @@ I am Raisul Islam (Nickname : Zaeem)
 
 - I’m currently working as a Computer Vision Engineer at [Saueressig](https://www.saueressig.com/) in Vreden, Germany.
 
-- I am intersted in image processing and computer vision. I also have some experience with machine vision, CAD and mechanical engineering.
+- Image processing, computer vision, geography interest me. I also have some experience with machine vision, CAD and mechanical engineering.
 
 #### Connect with me:
 
