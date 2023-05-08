@@ -6,7 +6,7 @@ I am Raisul Islam (Nickname : Zaeem)
 
 - I am primarily working on computer vision based solution in printing industry to 
   - detect errors on the printing cylinder surface and 
-  - automate image processing tasks, similar to reproduction. 
+  - automate image processing tasks. 
 
 I also have some experience with machine vision, CAD and mechanical engineering.
 
