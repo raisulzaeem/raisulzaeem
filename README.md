@@ -2,13 +2,17 @@
 
 I am Raisul Islam (Nickname : Zaeem)
 
-- I’m currently working as a Computer Vision Engineer at [Saueressig](https://www.saueressig.com/) in Vreden, Germany.
+I’m currently working as a Software Developer for Optical Measurement Systems at [ZwickRoell](https://www.zwickroell.com/) in Ulm, Germany.
 
+<!---
 - I am primarily working on computer vision based solution in printing industry to 
   - detect errors on the printing cylinder surface and 
   - automate image processing tasks. 
 
 I also have some experience with machine vision, CAD and mechanical engineering.
+
+-->
+
 
 #### Connect with me:
 
@@ -20,13 +24,13 @@ I also have some experience with machine vision, CAD and mechanical engineering.
 
 #### Languages and Tools:
 
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" />]()
+[<img align="left" alt="OpenCV" width="26px" src="https://github.com/opencv/opencv/blob/master/doc/opencv-logo2.png?raw=true" />]()
+[<img align="left" alt="Qt" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/QT-Dark.svg" />]()
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]()
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" />]()
 [<img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" />]()
 [<img align="left" alt="Pytorch" width="100px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" />]()
-[<img align="left" alt="OpenCV" width="26px" src="https://github.com/opencv/opencv/blob/master/doc/opencv-logo2.png?raw=true" />]()
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" />]()
-[<img align="left" alt="Qt" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/QT-Dark.svg" />]()
 
 
 <br />
